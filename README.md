@@ -3,3 +3,4 @@ Un repositorio genial[![Imagen random](https://sdos.es/sites/default/files/style
 
 *Creado por Daniel
 *Incluye ejemplos en windows, linux y mac
+*Disponible para todas las edades
